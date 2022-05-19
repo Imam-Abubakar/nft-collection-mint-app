@@ -142,7 +142,7 @@ const App = () => {
     </div>
     <div className="extra">
       Built on the Rinkeby TestNet<br />
-      Connect with your Rinkeby ETH wallet, click on 'Mine NFT' to pay for gas fees.<br />
+      Connect with your Rinkeby ETH wallet, click on 'Mint NFT' to pay for gas fees.<br />
       Wait about 30 secs to see the MAGIC
     </div>
     <div className="footer-container">
